@@ -20,3 +20,6 @@ This is a simple Python-based port scanner that scans common ports and identifie
 
 ## ⚠️ Disclaimer
 This project is for educational purposes only. Do not use it on unauthorized systems.
+
+## 📸 Example Output
+![Output](output.png)
